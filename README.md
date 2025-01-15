@@ -9,6 +9,7 @@
 | .NET Framework | 4.8 |
 
 - A reusable logging control for [WinForms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/windows-forms-overview?view=netframeworkdesktop-4.8) using the [RichTextBox](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.richtextbox?view=netframework-4.8).
+- Demo includes an example of loading a custom mono-spaced font for the control.
 
 ## 🧾 License/Warranty
 * Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish and distribute copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
